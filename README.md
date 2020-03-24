@@ -44,7 +44,7 @@ Similar to the mechanics of the game Mario, the objective of the game is to go f
 
 ### Authors
 * **Yashar Mateen** - [yasheymateen](https://www.github.com/yasheymateen)<br/>
-* **Edward Guillermo** - [guillmeister](https://www.github.com/guillmeister)(br/>)
+* **Edward Guillermo** - [guillmeister](https://www.github.com/guillmeister)<br/>
 
 ## License
 
